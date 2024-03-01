@@ -53,4 +53,4 @@ source /data/data/com.termux/files/usr/etc/profile.d/start-services.sh
 
 ## License
 
-Released under [the GPLv3 license](https://www.gnu.org/licenses/gpl.html).
+Released under [the GPLv3 license](https://www.gnu.org/licenses/gpl.html). Включить 
